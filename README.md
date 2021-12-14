@@ -1,11 +1,11 @@
-### Hi there, I'm Rolando - [Website][website] 👋
+### Hi there, I'm Rolando - [My Website][website] 👋
 
 ## I'm a mobile and backend developer
 
 - 🌱 I’m currently looking for a open source project to contribute.
 - 👯 I'm open to work in new projects so don't hesitate to contact me.
 - 🥅 2022 Goals: Work in a company with a great culture and a great team.
-- ⚡ Fun fact: I like the word "isolate" 🧐
+- ⚡ Fun fact: In software development I like the word "isolate" 🧐
 
 [website]: https://rolando-garcia.netlify.app/#/home
 
