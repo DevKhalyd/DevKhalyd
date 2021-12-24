@@ -19,12 +19,15 @@
 
 [Vide App Functions TS]: Functions that are used in the Video App listed above. Basically triggers the functions of firebase and perform some actions to help to process the data in the app.
 
+### Python
+
+[Researcher Bot]: A bot Telegram that crowls Reddit and get the data of the posts and send it though the chat bot.
+
 ### Learning
 
 New programming languages that I'm learning:
 
 - [Rust]
-
 
 ### Algorithms and Data Structures
 
@@ -37,9 +40,9 @@ Problems I've solved with algorithms and data structures:
 [video app]: https://github.com/DevKhalyd/videocalling_app_flutter
 [rg portfolio]: https://github.com/DevKhalyd/rg_portfolio
 [vide app functions ts]: https://github.com/DevKhalyd/videocalling_functions_TS
-[researcher_bot]: https://github.com/DevKhalyd/researcher_bot
+[researcher bot]: https://github.com/DevKhalyd/researcher_bot
 [rust]: https://github.com/DevKhalyd/learning_rust
-[HackerRank]: https://github.com/DevKhalyd/hacker_rank_problems
+[hackerrank]: https://github.com/DevKhalyd/hacker_rank_problems
 
 <!--
 Here are some ideas to get you started:
