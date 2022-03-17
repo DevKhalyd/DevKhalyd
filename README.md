@@ -1,6 +1,6 @@
 ### Hi there, I'm Rolando - [My Website][website] 👋
 
-## I'm a mobile and backend developer
+## I'm a mobile app developer 📱
 
 - 🥅 ~~2022 Goal: Work in a company with a great culture~~
 - ⚡ Fun fact: In software development I like the word "isolate" 🧐
