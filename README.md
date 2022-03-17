@@ -2,10 +2,9 @@
 
 ## I'm a mobile and backend developer
 
-- 🌱 I’m currently looking for a open source project to contribute.
-- 👯 I'm open to work in new projects so don't hesitate to contact me.
-- 🥅 2022 Goals: Work in a company with a great culture and a great team also improve my Upwork profile.
+- 🥅 ~~2022 Goal: Work in a company with a great culture~~
 - ⚡ Fun fact: In software development I like the word "isolate" 🧐
+- 💻 I'm ready to learn new technologies
 
 ### Flutter
 
@@ -23,11 +22,11 @@
 
 - [Researcher Bot]: A bot Telegram that crowls Reddit and get the data of the posts and send it though the chat bot.
 
-### Learning
+<!-- ### Learning
 
 New programming languages that I'm learning:
 
-- [Rust]
+- [Rust] -->
 
 ### Algorithms and Data Structures
 
